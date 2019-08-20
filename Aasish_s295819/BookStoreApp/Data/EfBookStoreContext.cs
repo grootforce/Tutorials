@@ -15,8 +15,8 @@ namespace BookStoreApp.Data
 
         }
 
-        public DbSet<Book> Book { get; set; }
+        public DbSet<Book> Books { get; set; }
 
-        public DbSet<Printer> Printer { get; set; }
+        public DbSet<Printer> Printers { get; set; }
     }
 }
