@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\halop\\OneDrive\\Documents\\GitHub\\Tutorials\\Patrick\\BookStoreApp\\BookStoreApp.csproj": {}
+    "C:\\Users\\halop\\OneDrive\\Documents\\Uni\\PRT455\\Tutorials\\Tutorials\\Patrick\\BookStoreApp\\BookStoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\halop\\OneDrive\\Documents\\GitHub\\Tutorials\\Patrick\\BookStoreApp\\BookStoreApp.csproj": {
+    "C:\\Users\\halop\\OneDrive\\Documents\\Uni\\PRT455\\Tutorials\\Tutorials\\Patrick\\BookStoreApp\\BookStoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\halop\\OneDrive\\Documents\\GitHub\\Tutorials\\Patrick\\BookStoreApp\\BookStoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\halop\\OneDrive\\Documents\\Uni\\PRT455\\Tutorials\\Tutorials\\Patrick\\BookStoreApp\\BookStoreApp.csproj",
         "projectName": "BookStoreApp",
-        "projectPath": "C:\\Users\\halop\\OneDrive\\Documents\\GitHub\\Tutorials\\Patrick\\BookStoreApp\\BookStoreApp.csproj",
+        "projectPath": "C:\\Users\\halop\\OneDrive\\Documents\\Uni\\PRT455\\Tutorials\\Tutorials\\Patrick\\BookStoreApp\\BookStoreApp.csproj",
         "packagesPath": "C:\\Users\\halop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\halop\\OneDrive\\Documents\\GitHub\\Tutorials\\Patrick\\BookStoreApp\\obj\\",
+        "outputPath": "C:\\Users\\halop\\OneDrive\\Documents\\Uni\\PRT455\\Tutorials\\Tutorials\\Patrick\\BookStoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
