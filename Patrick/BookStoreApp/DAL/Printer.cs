@@ -10,5 +10,6 @@ namespace BookStoreApp.DAL
         public int ID { get; set; }
         public string name { get; set; }
         public string brand { get; set; }
+        public string model { get; set; }
     }
 }
